@@ -1,6 +1,6 @@
 
 
-### **Plano do MVP Atualizado - Hub do Torcedor (TPPE)**
+### **Plano do MVP - Hub do Torcedor (TPPE)**
 
 **Versão:** .0
 **Data:** 25 de Setembro de 2025
@@ -83,3 +83,10 @@ Entregar uma versão funcional e enxuta da aplicação que permita a um usuário
 5.  **Ação (Palpite):** "Vou palpitar que no jogo entre Time A e Time B o placar será 2 a 1."
 6.  **Processamento (Desenvolvedor):** "Simulando o fim da rodada, vou executar meu script de processamento no backend. Ele busca os resultados e distribui as recompensas."
 7.  **Recompensa (Usuário):** "Ao atualizar a página do álbum, vemos que, como acertei o palpite, ganhei uma nova figurinha! O ciclo principal da aplicação foi concluído."
+
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor | Revisor |
+| :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
+| `1.0` | 25/09/2025 | Criação do documento e definição do escopo | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |

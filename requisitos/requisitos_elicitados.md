@@ -58,4 +58,4 @@ A legenda para cada sigla é a seguinte:
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
-| `1.0` | 25/09/2025 | Criação do documento e definição dos requisitos elicitados para o MVP. | Lucas | Gemini |
+| `1.0` | 25/09/2025 | Criação do documento e definição dos requisitos elicitados para o MVP. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |
