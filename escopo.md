@@ -2,7 +2,7 @@
 
 ### **Plano do MVP - Hub do Torcedor (TPPE)**
 
-**Versão:** .0
+**Versão:** 1.0
 **Data:** 25 de Setembro de 2025
 
 #### **1. Resumo do MVP**

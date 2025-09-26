@@ -15,14 +15,34 @@ A legenda para cada sigla é a seguinte:
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda para a tabela 2 de requisitos do Hub do Torcedor. </p></font>
 
-| Tipo | Descrição |
-| :--: | ------------------------------------- |
-| RF | Requisito Funcional |
-| RNF | Requisito Não-Funcional |
-| IS | Requisito elicitado pela Introspecção |
-| BS | Requisito elicitado pelo Brainstorming |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">Tipo</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center;">RF</td>
+      <td>Requisito Funcional</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">RNF</td>
+      <td>Requisito Não-Funcional</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">IS</td>
+      <td>Requisito elicitado pela Introspecção</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">BS</td>
+      <td>Requisito elicitado pelo Brainstorming</td>
+    </tr>
+  </tbody>
+</table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Lucas, 2025</p></font>
+<p style="text-align: center"><b>Fonte:</b> Lucas, 2025</p>
 </div>
 
 ## Tabela de requisitos elicitados para o MVP
