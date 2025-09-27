@@ -6,7 +6,7 @@ A metodologia ágil é uma abordagem flexível de gestão de projetos que se con
 
 ## Metodologia
 
-A metodologia utilizada para a definição do Backlog do **Hub do Torcedor** parte inicialmente dos [requisitos elicitados](../docs/requisitos_elicitados.md). Através destes, identificamos grandes blocos de trabalho (Épicos) que se agrupam em objetivos estratégicos (Temas). Os Épicos são então detalhados em tarefas menores e focadas no valor para o usuário, as **Histórias de Usuário**.
+A metodologia utilizada para a definição do Backlog do **Hub do Torcedor** parte inicialmente dos [requisitos elicitados](requisitos_elicitados.md). Através destes, identificamos grandes blocos de trabalho (Épicos) que se agrupam em objetivos estratégicos (Temas). Os Épicos são então detalhados em tarefas menores e focadas no valor para o usuário, as **Histórias de Usuário**.
 
 Para o Ponto de Controle 1, foram definidas 10 histórias de usuário que representam o núcleo da experiência do usuário na plataforma.
 
