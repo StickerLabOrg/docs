@@ -1,0 +1,31 @@
+# Protótipo de Alta Fidelidade
+
+## Introdução
+
+O protótipo de alta fidelidade foi desenvolvido na ferramenta Figma e serve como uma representação visual e interativa da aplicação "Hub do Torcedor". Ele segue as diretrizes definidas no Guia de Estilo e detalha o fluxo de navegação do usuário através das principais funcionalidades do MVP.
+
+## Ferramenta
+
+* **Figma**
+
+## Acesso ao Protótipo
+
+O protótipo interativo pode ser acessado publicamente através do link abaixo:
+
+* **[Acessar Protótipo Interativo no Figma](COLOQUE-SEU-LINK-PÚBLICO-DO-FIGMA-AQUI)** [cite: 82]
+
+## Telas Principais
+
+Abaixo estão algumas das telas principais desenvolvidas para o MVP.
+
+* **Login e Cadastro:**
+    ![Tela de Cadastro](assets/figma/cadastro.png)
+
+* **Dashboard e Palpites:**
+    ![Tela de Palpites](assets/figma/palpites.png)
+
+* **Minha Coleção (Álbum):**
+    ![Tela do Álbum](assets/figma/album.png)
+
+* **Classificação e Perfil:**
+    ![Tela de Perfil](assets/figma/perfil.png)
