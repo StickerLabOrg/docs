@@ -15,6 +15,12 @@ A paleta foi escolhida para criar um ambiente moderno e imersivo, com alto contr
 | ⚪️ | `#FFFFFF` | Branco | Texto principal e títulos. |
 | 🔘 | `#767070` | Cinza Médio | Texto secundário, placeholders e bordas. |
 
+<div align="center">
+
+<p><strong>Fonte:</strong> Lucas Víctor, 2025</p>
+
+</div>
+
 ## 2. Tipografia
 
 Foram escolhidas duas fontes do Google Fonts, conhecidas pela sua legibilidade e estilo moderno.

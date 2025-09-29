@@ -61,12 +61,23 @@ classDiagram
     Colecao "1" *-- "1..*" Figurinha : é composta por
 ```
 
+<div align="center">
+
+<p><strong>Fonte:</strong> Lucas Víctor, 2025</p>
+
+</div>
+
 **Diagrama gerado via Ferramenta Externa (Astah):**
 
 <p align="center">
   <img src="https://github.com/StickerLabOrg/docs/blob/Ponto_de_Controle_1/assets/diagramas/Diagrama_UML.png?raw=true" alt="Diagrama de Classes" width="800"/>
 </p>
 
+<div align="center">
+
+<p><strong>Fonte:</strong> Lucas Víctor, 2025</p>
+
+</div>
 ---
 
 ## 2. Diagrama de Sequência
@@ -105,6 +116,13 @@ sequenceDiagram
 
     API-->>Usuário: 10. Resposta HTTP
 ```
+
+
+<div align="center">
+
+<p><strong>Fonte:</strong> Lucas Víctor, 2025</p>
+
+</div>
 
 **Diagrama gerado via Ferramenta Externa (Astah):**
 

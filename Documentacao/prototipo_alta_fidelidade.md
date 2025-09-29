@@ -18,6 +18,12 @@ O protótipo interativo pode ser acessado publicamente através do link abaixo. 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/j0jqYOARxXDW6rLJ7771yb/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 </div>
 
+<div align="center">
+
+<p><strong>Fonte:</strong> Lucas Víctor, 2025</p>
+
+</div>
+
 ## Telas Principais
 
 Para visualizar todas as telas do protótipo, clique no link abaixo. O PDF será aberto em uma nova aba do seu navegador.

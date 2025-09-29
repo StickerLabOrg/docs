@@ -37,8 +37,13 @@ Nesta etapa, foram realizados os seguintes ajustes críticos:
 O resultado desse processo híbrido é uma logo robusta, moderna e alinhada à identidade visual do **Hub do Torcedor**.
 
 <div align="center">
-<img src="[https://github.com/StickerLabOrg/docs/blob/Ponto\_de\_Controle\_1/assets/Logo/LOGO\_HT\_2.png?raw=true](https://github.com/StickerLabOrg/docs/blob/Ponto_de_Controle_1/assets/Logo/LOGO_HT_2.png?raw=true)" alt="Logo do Hub do Torcedor" width="400">
+  <img src="https://github.com/StickerLabOrg/docs/blob/Ponto_de_Controle_1/assets/Logo/LOGO_HT_2.png?raw=true" alt="Logo do Hub do Torcedor" width="400">
+
+<figcaption>Fonte: Lucas Víctor (2025)</figcaption>
+
 </div>
+
+
 
 ### Análise dos Elementos:
 
