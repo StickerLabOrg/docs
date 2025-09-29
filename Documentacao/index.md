@@ -1,44 +1,49 @@
+<div align="center">
+  <img src="../assets/Logo/LOGO_HT.png" alt="Logo do Hub do Torcedor" width="400"/>
+</div>
+
 # Bem-vindo à Documentação do Hub do Torcedor
 
-Este site contém toda a documentação do projeto **Hub do Torcedor**, desenvolvido para a disciplina de Tópicos de Projeto e Programação de Engenharia (TPPE), seguindo o checklist de entrega proposto.
 
-O projeto consiste em uma plataforma web para fãs de futebol, que combina um álbum de figurinhas digital com um sistema de palpites em jogos reais, incluindo uma economia virtual com moedas e pacotes de figurinhas.
-
-Navegue pelas seções abaixo para explorar todos os artefatos do projeto.
+Este site contém toda a documentação do projeto **Hub do Torcedor**, desenvolvido para a disciplina de Tópicos de Projeto e Programação de Engenharia (TPPE). O projeto consiste em uma plataforma web que combina um álbum de figurinhas digital com um sistema de palpites em jogos reais, incluindo uma economia virtual com moedas e pacotes.
 
 ---
 
-## Estrutura da Documentação
+## Navegação Rápida
 
-### 1. Concepção do Projeto
-Nesta seção, definimos a base e os limites do projeto.
+Navegue pelos artefatos do projeto utilizando os cards abaixo.
 
-* **[Escopo do MVP](escopo.md):** Descreve as funcionalidades essenciais que compõem a primeira entrega (Entrega 1).
-* **[Requisitos Elicitados](requisitos_elicitados.md):** Lista os requisitos funcionais e não-funcionais que guiam o desenvolvimento.
-* **[Arquitetura](arquitetura.md):** Apresenta a visão de alto nível do sistema, suas tecnologias e o padrão de design MVC.
-* **[Diagramas UML](diagramas_UML.md):** Contém os diagramas de Classe e Sequência que modelam o sistema.
+- Concepção do Projeto:
+    - [Escopo do MVP](escopo.md)
+    - [Requisitos Elicitados](requisitos_elicitados.md)
+    - [Arquitetura](arquitetura.md)
+    - [Diagramas UML](diagramas_UML.md)
 
-### 2. Planejamento Ágil
-Aqui detalhamos o planejamento do trabalho usando metodologias ágeis.
+-   Planejamento Ágil:
+    - [Backlog](backlog.md)
 
-* **[Backlog](backlog.md):** Apresenta as 10 Histórias de Usuário do MVP, com seus Critérios de Aceitação.
+-  Design e UI
+    - [Guia de Estilo](style-guide.md)
+    - [Protótipo](prototipos.md)
+    - [Design Tokens](design-tokens.json)
 
-### 3. Design e UI
-Esta seção cobre a identidade visual e a experiência do usuário da aplicação.
+-  Guias de Desenvolvimento:
+    - [Guia de Execução](run-guide.md)
+    - [Guia de Estilo de Código](code-style.md)
+    - [Visão Geral do Frontend](frontend_overview.md)
 
-* **[Guia de Estilo](style-guide.md):** Define a paleta de cores, tipografia e componentes visuais.
-* **[Protótipo](prototipos.md):** Link para o protótipo de alta fidelidade no Figma e screenshots das telas principais.
-* **[Design Tokens](design-tokens.json):** Arquivo JSON com as variáveis de design para uso no desenvolvimento.
 
-### 4. Guias de Desenvolvimento
-Documentos técnicos essenciais para executar e entender o código do projeto.
+## Repositórios do Projeto
 
-* **[Guia de Execução](run-guide.md):** Instruções passo a passo para configurar e rodar o ambiente de desenvolvimento com Docker.
-* **[Guia de Estilo de Código](code-style.md):** Define as boas práticas de codificação, incluindo os princípios SOLID.
-* **[Visão Geral do Frontend](frontend_overview.md):** Descreve a estrutura e as tecnologias do projeto React.
+Acesse o código-fonte completo nos repositórios do GitHub.
 
-### Histórico de Versões
+* **[Backend (FastAPI)](https://github.com/Lucas13032003/backend-hub-do-torcedor)**
+* **[Frontend (React)](https://github.com/Lucas13032003/frontend-hub-do-torcedor)**
+* **[Documentação (MkDocs)](https://github.com/Lucas13032003/documentacao-hub-do-torcedor)**
+
+## Histórico de Versões
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
-| `1.0` | 25/09/2025 | Criação do documento. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |
+| `1.0` | 25/09/2025 | Criação da estrutura inicial da documentação. | Lucas Víctor | Lucas Víctor |
+| `1.1` | 29/09/2025 | Reformulação da página inicial com layout de cards e destaques. | Gemini | Lucas Víctor |

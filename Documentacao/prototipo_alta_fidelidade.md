@@ -20,12 +20,15 @@ O protótipo interativo pode ser acessado publicamente através do link abaixo. 
 
 ## Telas Principais
 
-<iframe src="" width="100%" height="600px">
-</iframe>
+Para visualizar todas as telas do protótipo, clique no link abaixo. O PDF será aberto em uma nova aba do seu navegador.
+
+[Visualizar Protótipo em PDF](https://github.com/StickerLabOrg/docs/blob/Ponto_de_Controle_1/assets/prototipo/Untitled.pdf)
+
+
 
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
-| `1.0` | 29/09/2025 | Criação do documento com o link e screenshots do protótipo de alta fidelidade. | Lucas | Gemini |
+| `1.0` | 29/09/2025 | Criação do documento com o link e screenshots do protótipo de alta fidelidade. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |
