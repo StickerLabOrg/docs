@@ -12,7 +12,9 @@ O protótipo de alta fidelidade foi desenvolvido na ferramenta Figma e serve com
 
 O protótipo interativo pode ser acessado publicamente através do link abaixo:
 
-* **[Acessar Protótipo Interativo no Figma](COLOQUE-SEU-LINK-PÚBLICO-DO-FIGMA-AQUI)** [cite: 82]
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/j0jqYOARxXDW6rLJ7771yb/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+https://www.figma.com/design/j0jqYOARxXDW6rLJ7771yb/Untitled?node-id=0-1&m=dev&t=MOIXn2zH5fIOClNR-1
 
 ## Telas Principais
 
