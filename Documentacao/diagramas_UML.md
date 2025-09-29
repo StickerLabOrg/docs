@@ -62,13 +62,12 @@ classDiagram
 ```
 
 **Diagrama gerado via Ferramenta Externa (Astah):**
-*(Local para a imagem que você exportar do seu software)*
 
-```
-![Diagrama de Classes](assets/uml/diagrama_de_classes.svg)
-```
+<p align="center">
+  <img src="assets/diagramas/Diagrama_UML.png" alt="Descrição da imagem" width="400"/>
+</p>
 
------
+
 
 ## 2\. Diagrama de Sequência
 
