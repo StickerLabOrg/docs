@@ -20,21 +20,9 @@ O protótipo interativo pode ser acessado publicamente através do link abaixo. 
 
 ## Telas Principais
 
-Abaixo estão algumas das telas principais desenvolvidas para o MVP.
+<iframe src="" width="100%" height="600px">
+</iframe>
 
-*(Lembre-se de exportar as imagens do Figma e colocá-las na pasta `docs/assets/figma/` para que apareçam aqui.)*
-
-* **Login e Cadastro:**
-    ![Tela de Cadastro](assets/figma/cadastro.png)
-
-* **Dashboard e Palpites:**
-    ![Tela de Palpites](assets/figma/palpites.png)
-
-* **Minha Coleção (Álbum):**
-    ![Tela do Álbum](assets/figma/album.png)
-
-* **Classificação e Perfil:**
-    ![Tela de Perfil](assets/figma/perfil.png)
 
 ## Histórico de Versões
 
