@@ -22,7 +22,7 @@ O protótipo interativo pode ser acessado publicamente através do link abaixo. 
 
 Para visualizar todas as telas do protótipo, clique no link abaixo. O PDF será aberto em uma nova aba do seu navegador.
 
-[Visualizar Protótipo em PDF](https://github.com/StickerLabOrg/docs/blob/Ponto_de_Controle_1/assets/prototipo/Untitled.pdf)
+[Visualizar Protótipo em PDF](https://github.com/StickerLabOrg/docs/blob/Ponto_de_Controle_1/assets/prototipo/prototipo_alta_fidelidade_v1.pdf)
 
 
 

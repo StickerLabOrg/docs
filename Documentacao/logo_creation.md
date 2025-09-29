@@ -22,7 +22,7 @@ Este comando instruiu a IA a focar em um ícone de escudo minimalista com o mono
 Após diversas iterações e refinamentos, o conceito final selecionado foi o seguinte:
 
 <div align="center">
-  <img src="../assets/Logo/LOGO_HT.png" alt="Logo do Hub do Torcedor" width="400"/>
+  <img src="https://github.com/StickerLabOrg/docs/blob/Ponto_de_Controle_1/assets/Logo/LOGO_HT_2.png?raw=true" alt="Logo do Hub do Torcedor" width="400"/>
 </div>
 ### Elementos da Logo:
 * **Ícone:** Um escudo com facetas tridimensionais, transmitindo modernidade e robustez.
