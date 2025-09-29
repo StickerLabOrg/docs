@@ -40,4 +40,4 @@ A logo foi exportada em formato vetorial **SVG** e **PNG** (com fundo transparen
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
-| `1.0` | 29/09/2025 | Criação do documento detalhando o processo de confecção da logo com IA. | Lucas | Gemini |
+| `1.0` | 29/09/2025 | Criação do documento detalhando o processo de confecção da logo com IA. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |
