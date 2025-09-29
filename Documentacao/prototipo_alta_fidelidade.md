@@ -10,15 +10,19 @@ O protótipo de alta fidelidade foi desenvolvido na ferramenta Figma e serve com
 
 ## Acesso ao Protótipo
 
-O protótipo interativo pode ser acessado publicamente através do link abaixo:
+O protótipo interativo pode ser acessado publicamente através do link abaixo. Também está disponível uma versão incorporada para visualização direta.
 
+* **Link Público:** [https://www.figma.com/design/j0jqYOARxXDW6rLJ7771yb/Untitled](https://www.figma.com/design/j0jqYOARxXDW6rLJ7771yb/Untitled?node-id=0-1&m=dev&t=MOIXn2zH5fIOClNR-1)
+
+<div align="center">
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/j0jqYOARxXDW6rLJ7771yb/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
-
-https://www.figma.com/design/j0jqYOARxXDW6rLJ7771yb/Untitled?node-id=0-1&m=dev&t=MOIXn2zH5fIOClNR-1
+</div>
 
 ## Telas Principais
 
 Abaixo estão algumas das telas principais desenvolvidas para o MVP.
+
+*(Lembre-se de exportar as imagens do Figma e colocá-las na pasta `docs/assets/figma/` para que apareçam aqui.)*
 
 * **Login e Cadastro:**
     ![Tela de Cadastro](assets/figma/cadastro.png)
@@ -31,3 +35,9 @@ Abaixo estão algumas das telas principais desenvolvidas para o MVP.
 
 * **Classificação e Perfil:**
     ![Tela de Perfil](assets/figma/perfil.png)
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor | Revisor |
+| :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
+| `1.0` | 29/09/2025 | Criação do documento com o link e screenshots do protótipo de alta fidelidade. | Lucas | Gemini |

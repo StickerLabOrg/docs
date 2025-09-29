@@ -26,11 +26,11 @@ O projeto é totalmente containerizado, o que simplifica a execução. O comando
 Com os contêineres em execução, a API estará acessível no seu navegador:
 
 * **Documentação Interativa (Swagger UI):** Para ver e testar todos os endpoints da API, acesse:
-    * [cite_start][http://localhost:8000/docs](http://localhost:8000/docs) [cite: 277]
+    * [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## 4. Rodando os Testes Automatizados
 
-[cite_start]Os testes do backend devem ser executados dentro do contêiner da aplicação para garantir consistência no ambiente[cite: 254].
+Os testes do backend devem ser executados dentro do contêiner da aplicação para garantir consistência no ambiente.
 
 1.  Com os contêineres já em execução (após o `docker compose up`), abra um **novo terminal**.
 2.  Entre no shell do contêiner do backend com o seguinte comando:
@@ -46,3 +46,9 @@ Com os contêineres em execução, a API estará acessível no seu navegador:
     pytest
     ```
     A saída deve indicar o número de testes que passaram e foram pulados (`skipped`).
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor | Revisor |
+| :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
+| `1.0` | 29/09/2025 | Criação do documento com as instruções para executar o projeto e os testes. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |

@@ -6,7 +6,7 @@ Este documento define as diretrizes visuais e de estilo para a interface do usu�
 
 ## 1. Paleta de Cores
 
-[cite_start]A paleta foi escolhida para criar um ambiente moderno e imersivo, com alto contraste para garantir a legibilidade, conforme a diretriz WCAG. [cite: 11]
+A paleta foi escolhida para criar um ambiente moderno e imersivo, com alto contraste para garantir a legibilidade, conforme a diretriz WCAG.
 
 | Cor | Hex Code | Nome | Uso Principal |
 | :--- | :---: | :--- | :--- |
@@ -17,7 +17,7 @@ Este documento define as diretrizes visuais e de estilo para a interface do usu�
 
 ## 2. Tipografia
 
-[cite_start]Foram escolhidas duas fontes do Google Fonts, conhecidas pela sua legibilidade e estilo moderno. [cite: 12]
+Foram escolhidas duas fontes do Google Fonts, conhecidas pela sua legibilidade e estilo moderno.
 
 * **Títulos e Cabeçalhos:** `Montserrat`
 * **Corpo de Texto e Parágrafos:** `Lato`
@@ -31,14 +31,20 @@ Este documento define as diretrizes visuais e de estilo para a interface do usu�
 ## 3. Componentes
 
 ### Botão (Button)
-* [cite_start]**Radius (Raio da Borda):** 20px [cite: 127]
+* **Radius (Raio da Borda):** 20px 
 * **Estilo Primário:** Fundo `Verde Destaque`, texto `Fundo Escuro`.
 
 ## 4. Iconografia
 
-[cite_start]Os ícones devem ser consistentes e autoexplicativos. [cite: 13] Sugestões de ícones para ações comuns:
+Os ícones devem ser consistentes e autoexplicativos. Sugestões de ícones para ações comuns:
 * **Adicionar:** `+`
 * **Editar:** Ícone de lápis
 * **Excluir:** Ícone de lixeira
 * **Visualizar:** Ícone de olho
 * **Configurações:** Ícone de engrenagem
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor | Revisor |
+| :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
+| `1.0` | 29/09/2025 | Criação do documento definindo a identidade visual do projeto. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |

@@ -92,5 +92,5 @@ Entregar uma versão funcional e enxuta da aplicação que permita a um usuário
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
-| `1.0` | 25/09/2025 | Criação do documento e definição do escopo inicial. | Lucas Víctor | Lucas Víctor |
-| `2.0` | 27/09/2025 | Refatora o escopo para incluir a economia de moedas e pacotes. | Gemini | Lucas Víctor |
+| `1.0` | 25/09/2025 | Criação do documento e definição do escopo inicial. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |
+| `2.0` | 27/09/2025 | Refatora o escopo para incluir a economia de moedas e pacotes. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |

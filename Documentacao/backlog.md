@@ -8,8 +8,6 @@ A metodologia ágil é uma abordagem flexível de gestão de projetos que se con
 
 A metodologia utilizada para a definição do Backlog do **Hub do Torcedor** parte inicialmente dos [requisitos elicitados](requisitos_elicitados.md). Através destes, identificamos grandes blocos de trabalho (Épicos) que se agrupam em objetivos estratégicos (Temas). Os Épicos são então detalhados em tarefas menores e focadas no valor para o usuário, as **Histórias de Usuário**.
 
-Para o Ponto de Controle 1, foram definidas 10 histórias de usuário que representam o núcleo da experiência do usuário na plataforma.
-
 ## Backlog
 
 ### Temas
@@ -24,80 +22,84 @@ Para o Ponto de Controle 1, foram definidas 10 histórias de usuário que repres
 * **EP03 - Coleção de Figurinhas:** Eu, como **colecionador**, desejo construir e gerenciar minha coleção de figurinhas digitais.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de backlog com 10 Histórias de Usuário</p></font>
+<p><b>Tabela 1:</b> Tabela de backlog detalhada para a Entrega 1.</p>
 </div>
 
 <table>
-<thead>
+  <thead>
     <tr>
-        <th>Tema</th>
-        <th>Épico</th>
-        <th>ID</th>
-        <th>História de Usuário</th>
-        <th>Prioridade</th>
+      <th>ID</th>
+      <th>História de Usuário</th>
+      <th>Critérios de Aceitação (CA)</th>
+      <th>Prioridade</th>
     </tr>
-</thead>
-<tbody>
+  </thead>
+  <tbody>
     <tr>
-        <td rowspan="4"> T01 - Gestão de Conta e Perfil </td>
-        <td rowspan="4"> EP01 - Gerenciamento de Conta </td>
-        <td> US01 </td>
-        <td> Eu, como visitante, quero poder me <b>cadastrar</b> na plataforma para ter um perfil. </td>
-        <td> Essencial </td>
+      <td><b>US01</b></td>
+      <td>Eu, como visitante, quero poder me <b>cadastrar</b> na plataforma para ter um perfil.</td>
+      <td>- Dado que preencho os campos (nome, email, etc.) corretamente, QUANDO clico em "Criar Conta", ENTÃO um novo usuário é criado no sistema.</td>
+      <td>Essencial</td>
     </tr>
     <tr>
-        <td> US02 </td>
-        <td> Eu, como usuário, quero poder fazer <b>login</b> para acessar minha conta. </td>
-        <td> Essencial </td>
+      <td><b>US02</b></td>
+      <td>Eu, como usuário, quero poder fazer <b>login</b> para acessar minha conta.</td>
+      <td>- Dado que insiro um e-mail e senha válidos, QUANDO clico em "Entrar", ENTÃO sou autenticado e redirecionado para o Dashboard.</td>
+      <td>Essencial</td>
     </tr>
     <tr>
-        <td> US03 </td>
-        <td> Eu, como usuário, quero poder fazer <b>logout</b> para encerrar minha sessão com segurança. </td>
-        <td> Importante </td>
+      <td><b>US03</b></td>
+      <td>Eu, como usuário, quero ver meu <b>saldo de moedas</b> de forma visível na interface.</td>
+      <td>- Dado que estou logado, QUANDO acesso o Dashboard, ENTÃO meu saldo atual de moedas deve ser exibido.</td>
+      <td>Essencial</td>
     </tr>
     <tr>
-        <td> US04 </td>
-        <td> Eu, como usuário, quero poder visualizar meu <b>perfil</b> com meu progresso no álbum. </td>
-        <td> Média </td>
+      <td><b>US04</b></td>
+      <td>Eu, como torcedor, quero poder <b>visualizar os jogos</b> da próxima rodada.</td>
+      <td>- Dado que estou no Dashboard, ENTÃO devo ver uma lista de partidas futuras.</td>
+      <td>Essencial</td>
     </tr>
     <tr>
-        <td rowspan="6"> T02 - Jogo e Coleção </td>
-        <td rowspan="3"> EP02 - Interação com Partidas </td>
-        <td> US05 </td>
-        <td> Eu, como torcedor, quero poder <b>visualizar os jogos</b> da próxima rodada. </td>
-        <td> Essencial </td>
+      <td><b>US05</b></td>
+      <td>Eu, como torcedor, quero poder <b>submeter um palpite</b> de placar para um jogo.</td>
+      <td>- Dado que escolho uma partida, QUANDO insiro os placares e salvo, ENTÃO meu palpite deve ser registrado no sistema.</td>
+      <td>Essencial</td>
     </tr>
     <tr>
-        <td> US06 </td>
-        <td> Eu, como torcedor, quero poder <b>submeter um palpite</b> de placar para um jogo. </td>
-        <td> Essencial </td>
+      <td><b>US06</b></td>
+      <td>Eu, como torcedor, quero <b>ganhar moedas</b> como recompensa por meus acertos nos palpites.</td>
+      <td>- Dado que fiz um palpite correto e a partida terminou, QUANDO acesso minha conta, ENTÃO meu saldo de moedas deve ter aumentado.</td>
+      <td>Essencial</td>
     </tr>
      <tr>
-        <td> US07 </td>
-        <td> Eu, como torcedor, quero poder <b>ver o resultado</b> do meu palpite após o fim do jogo. </td>
-        <td> Importante </td>
+      <td><b>US07</b></td>
+      <td>Eu, como colecionador, quero poder <b>comprar pacotes</b> de figurinhas na loja usando minhas moedas.</td>
+      <td>- Dado que tenho moedas suficientes, QUANDO clico em "Comprar Pacote", ENTÃO meu saldo é debitado e um pacote é adicionado à minha conta.</td>
+      <td>Essencial</td>
+    </tr>
+     <tr>
+      <td><b>US08</b></td>
+      <td>Eu, como colecionador, quero poder <b>abrir um pacote</b> para descobrir minhas novas figurinhas.</td>
+      <td>- Dado que possuo um pacote, QUANDO clico para abri-lo, ENTÃO uma interface revela as figurinhas aleatórias que ganhei.</td>
+      <td>Essencial</td>
     </tr>
     <tr>
-        <td rowspan="3"> EP03 - Coleção de Figurinhas </td>
-        <td> US08 </td>
-        <td> Eu, como colecionador, quero poder <b>visualizar meu álbum</b> e ver quais figurinhas eu tenho. </td>
-        <td> Essencial </td>
+      <td><b>US09</b></td>
+      <td>Eu, como colecionador, quero poder <b>visualizar meu álbum</b> e ver quais figurinhas eu tenho.</td>
+      <td>- Dado que estou logado, QUANDO acesso a página "Meu Álbum", ENTÃO devo ver o progresso da minha coleção e a lista de figurinhas que possuo.</td>
+      <td>Importante</td>
     </tr>
     <tr>
-        <td> US09 </td>
-        <td> Eu, como colecionador, quero poder ver uma lista das minhas <b>figurinhas repetidas</b>. </td>
-        <td> Média </td>
+      <td><b>US10</b></td>
+      <td>Eu, como usuário, quero poder fazer <b>logout</b> para encerrar minha sessão com segurança.</td>
+      <td>- Dado que estou logado, QUANDO clico no botão "Sair", ENTÃO minha sessão é encerrada e sou redirecionado para a tela de login.</td>
+      <td>Importante</td>
     </tr>
-    <tr>
-        <td> US10 </td>
-        <td> Eu, como torcedor, quero <b>receber pacotes de figurinhas</b> como recompensa por meus acertos. </td>
-        <td> Essencial </td>
-    </tr>
-</tbody>
+  </tbody>
 </table>
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Lucas Víctor, 2025</p></font>
+<p><b>Fonte:</b> Lucas Víctor, 2025</p>
 </div>
 
 ## Bibliografia
@@ -110,4 +112,5 @@ Para o Ponto de Controle 1, foram definidas 10 histórias de usuário que repres
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
-| `1.0` | 25/09/2025 | Criação do documento e definição de 10 Histórias de Usuário para o Ponto de Controle 1. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |
+| `1.0` | 25/09/2025 | Criação do documento com 10 histórias de usuário iniciais. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |
+| `2.0` | 28/09/2025 | Atualização das histórias para o sistema de moedas e adição de Critérios de Aceitação. | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |
