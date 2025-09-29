@@ -1,21 +1,3 @@
-Com certeza\! Aqui está uma versão atualizada e aprimorada do seu `README.md`, incorporando boas práticas como badges, links diretos para os arquivos e seções adicionais para facilitar a colaboração.
-
------
-
-# 📚 Documentação - Projeto Álbum de Figurinhas
-
-Este repositório centraliza a **documentação oficial** do projeto **Álbum de Figurinhas**, um sistema digital para troca e gerenciamento de figurinhas. Aqui você encontrará desde os requisitos iniciais até os guias de implantação.
-
------
-
-## 🎯 Objetivos
-
-  - **Centralizar** toda a documentação do projeto em um único local.
-  - **Facilitar a comunicação** e o alinhamento entre os membros da equipe.
-  - **Garantir rastreabilidade** completa, desde as histórias de usuário até o deploy.
-
------
-
 ## 📑 Conteúdo Principal
 
 Navegue pelos artefatos de documentação mais importantes do projeto:
@@ -39,26 +21,6 @@ Navegue pelos artefatos de documentação mais importantes do projeto:
 
 
 
-## 📂 Estrutura do Repositório
-
-```
-docs/
-│
-├── requisitos/
-│   └── backlog.md                    # Histórias de Usuário (Requisitos)
-│   └── escopo.md                     # Histórias de Usuário (Requisitos)
-│   └── requisitos_elicitados.md      # Histórias de Usuário (Requisitos)
-│
-├── arquitetura/
-│   └── arquitetura.md      # Visão geral da arquitetura
-│
-├── diagramas/
-│   ├── casos-uso.png       # Diagrama de Casos de Uso
-│   ├── classes.png         # Diagrama de Classes
-│   └── sequencia.png       # Diagrama de Sequência
-│
-├── prototipo/
-│   └── prototipo-v0.pdf    # Telas exportadas do Figma
 │
 └── deploy/
     └── guia-deploy.md      # Instruções de publicação
