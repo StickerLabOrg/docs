@@ -1,7 +1,6 @@
-# Bem-vindo à Documentação do Hub do Torcedor TESTE
 
 <div align="center">
-  <img src="../assets/Logo/LOGO_HT.png" alt="Logo do Hub do Torcedor" width="400"/>
+  <img src="https://github.com/StickerLabOrg/docs/blob/Ponto_de_Controle_1/assets/Logo/LOGO_HT.png?raw=true" alt="Logo do Hub do Torcedor" width="400"/>
 </div>
 
 # Bem-vindo à Documentação do Hub do Torcedor
@@ -16,36 +15,36 @@ Este site contém toda a documentação do projeto **Hub do Torcedor**, desenvol
 Navegue pelos artefatos do projeto utilizando os cards abaixo.
 
 - Concepção do Projeto:
-    - [Escopo do MVP](escopo.md)
-    - [Requisitos Elicitados](requisitos_elicitados.md)
-    - [Arquitetura](arquitetura.md)
-    - [Diagramas UML](diagramas_UML.md)
+    - [Escopo do MVP](../docs/Documentacao/escopo.md)
+    - [Requisitos Elicitados](../docs/Documentacao/requisitos_elicitados.md)
+    - [Arquitetura](../docs/Documentacao/arquitetura.md)
+    - [Diagramas UML](../docs/Documentacao/diagramas_UML.md)
 
 -   Planejamento Ágil:
-    - [Backlog](backlog.md)
+    - [Backlog](../docs/Documentacao/backlog.md)
 
 -  Design e UI
-    - [Guia de Estilo](style-guide.md)
-    - [Protótipo](prototipos.md)
-    - [Design Tokens](design-tokens.json)
+    - [Guia de Estilo](../docs/Documentacao/style-guide.md)
+    - [Protótipo](../docs/Documentacao/prototipo_alta_fidelidade.mds.md)
+    - [Design Tokens](../docs/Documentacao/design-tokens.json)
 
 -  Guias de Desenvolvimento:
-    - [Guia de Execução](run-guide.md)
-    - [Guia de Estilo de Código](code-style.md)
-    - [Visão Geral do Frontend](frontend_overview.md)
+    - [Guia de Execução](../docs/Documentacao/run-guide.md)
+    - [Guia de Estilo de Código](../docs/Documentacao/code-style.md)
+    - [Visão Geral do Frontend](../docs/Documentacao/frontend_overview.md)
 
 
 ## Repositórios do Projeto
 
 Acesse o código-fonte completo nos repositórios do GitHub.
 
-* **[Backend (FastAPI)](https://github.com/Lucas13032003/backend-hub-do-torcedor)**
-* **[Frontend (React)](https://github.com/Lucas13032003/frontend-hub-do-torcedor)**
-* **[Documentação (MkDocs)](https://github.com/Lucas13032003/documentacao-hub-do-torcedor)**
+* **[Backend (FastAPI)](https://github.com/StickerLabOrg/backend)**
+* **[Frontend (React)](https://github.com/StickerLabOrg/frontend)**
+* **[Documentação (MkDocs)](https://github.com/StickerLabOrg/docs.git)**
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :------------: | ----------------------------------------------------------------------- | :---------: | :---------: |
-| `1.0` | 25/09/2025 | Criação da estrutura inicial da documentação. | Lucas Víctor | Lucas Víctor |
-| `1.1` | 29/09/2025 | Reformulação da página inicial com layout de cards e destaques. | Gemini | Lucas Víctor |
+| `1.0` | 25/09/2025 | Criação da estrutura inicial da documentação.  | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |
+| `1.1` | 29/09/2025 | Reformulação da página inicial com layout de cards e destaques.  | [Lucas Víctor](https://github.com/Lucas13032003) | [Lucas Víctor](https://github.com/Lucas13032003) |
