@@ -1,0 +1,28 @@
+{
+  "colors": {
+    "primary": {
+      "background": { "value": "#1E212D", "comment": "Cor principal de fundo da aplicação." },
+      "surface": { "value": "#2A2F45", "comment": "Cor de fundo para cards e modais." }
+    },
+    "accent": {
+      "default": { "value": "#00FF87", "comment": "Ações primárias (botões, links, ícones ativos)." }
+    },
+    "text": {
+      "primary": { "value": "#FFFFFF", "comment": "Texto principal e títulos." },
+      "secondary": { "value": "#767070", "comment": "Texto secundário, placeholders e bordas." }
+    },
+    "feedback": {
+      "error": { "value": "#ff6b6b", "comment": "Cor para mensagens de erro." }
+    }
+  },
+  "typography": {
+    "fontFamily": {
+      "heading": { "value": "Montserrat, sans-serif" },
+      "body": { "value": "Lato, sans-serif" }
+    }
+  },
+  "borderRadius": {
+    "button": { "value": "20px" },
+    "card": { "value": "12px" }
+  }
+}
