@@ -1,7 +1,3 @@
-Com certeza\! Aqui está uma versão atualizada e aprimorada do seu `README.md`, incorporando boas práticas como badges, links diretos para os arquivos e seções adicionais para facilitar a colaboração.
-
------
-
 # 📚 Documentação - Projeto Álbum de Figurinhas
 
 Este repositório centraliza a **documentação oficial** do projeto **Álbum de Figurinhas**, um sistema digital para troca e gerenciamento de figurinhas. Aqui você encontrará desde os requisitos iniciais até os guias de implantação.
